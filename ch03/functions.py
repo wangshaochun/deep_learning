@@ -49,8 +49,8 @@ def softmax(a):
     return y
 
 # softmax function 图像
-a=np.array([0.3,2.9,3.0])
-y=softmax(a)
-print(y)
-plt.plot(a,y)
-plt.show()
+# a=np.array([0.3,2.9,3.0])
+# y=softmax(a)
+# print(y)
+# plt.plot(a,y)
+# plt.show()
